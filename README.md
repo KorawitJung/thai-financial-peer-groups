@@ -1,5 +1,10 @@
 # Financial Peer Groups in Thai Finance
 
+> [!WARNING]
+> **For learning only.** This is a personal study and portfolio project. It is not used commercially, is not investment advice, and is not intended to harm, defame or judge any company or person. Groups and scores describe similarities in reported figures only and say nothing about a company's quality or prospects. The financial statements belong to their respective companies and sources.
+>
+> **เพื่อการศึกษาเท่านั้น** โปรเจกต์นี้จัดทำเพื่อการศึกษาและเป็นผลงานส่วนตัว ไม่ได้ใช้ในเชิงพาณิชย์ ไม่ใช่คำแนะนำการลงทุน และไม่มีเจตนาทำให้บริษัทหรือบุคคลใดเสียหาย กลุ่มและคะแนนในโปรเจกต์นี้บอกเพียงความคล้ายกันของตัวเลขในงบ ไม่ได้ประเมินคุณภาพหรือแนวโน้มของบริษัท ข้อมูลงบการเงินเป็นของบริษัทและแหล่งข้อมูลต้นทาง
+
 **What:** Groups 27 Thai financial companies by what their financial statements look like, and finds the companies least like the others.
 
 **Why:** Banks, insurers and other financial companies are usually compared within their own business type. Business type says what a company does, not whether its statements behave alike. This project tests how well business type matches statement profile, so that peer comparisons rest on the numbers.
@@ -166,4 +171,4 @@ Filings used to check specific figures:
 - Figures have been checked against filings only for KBANK, AYUD and BAY.
 - Data redistribution terms have not been checked. Keep this repository private until they are.
 
-This is a portfolio project, not investment advice.
+This project is for learning only. It is not used commercially, is not investment advice, and is not intended to harm any company or person.
