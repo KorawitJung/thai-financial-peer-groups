@@ -172,3 +172,7 @@ Filings used to check specific figures:
 - Data redistribution terms have not been checked. Keep this repository private until they are.
 
 This project is for learning only. It is not used commercially, is not investment advice, and is not intended to harm any company or person.
+
+## License
+
+The code is under the [MIT License](LICENSE). The license does not cover the financial statements in `data/workbooks` or figures derived from them, which belong to the companies and their original sources.
